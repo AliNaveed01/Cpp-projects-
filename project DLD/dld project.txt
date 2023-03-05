@@ -1,0 +1,30 @@
+hex keyboard (iske thru inputs lere han input k lie
+)
+
+(hex display) queue head (mux se jo output arha hai wo yahan input hoga)
+
+binary swtich hai mode(iske thru decide hga k whther u r gonna push or pop
+)
+
+reset (if we reset our input will become zero)
+binary button(if we select any input from the hex keyboard, and then click on bianry button,
+we will load it into queue head)
+
+empty (not gate) and full circuit(not gate)
+point:
+agr hamara ouput theek ni ara to empty circuit chalega
+jb circuit normal chalega to 10 inputs ki jo output ayegi to wo chalega
+
+***********input******************
+
+hmne conditions lagai hui hain inputs 0<=x<10.
+
+next we move towards (conditional circuits)
+counter (btata hai wo value jo abhi input horhi hoti hai)
+register (us input k register me jake wo value store hojaigi
+)(add krai ga ya subtarct us value mese jo input hori hai 
+depending on the value whetehr we have to push or pop)
+
+adder (it will add wo value) jo add honi us value me jo input hori hai)
+
+0-9 values k lie we will have 10 registers in series
